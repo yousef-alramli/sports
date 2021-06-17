@@ -1,0 +1,46 @@
+header {
+background-image: url(https://t3.ftcdn.net/jpg/04/34/62/74/240_F_434627449_2PX32uxEOwKe981ait1vLQRTDl5vgYgY.jpg);
+color: gold;
+ margin: 0px;
+}
+h1{ 
+  padding : 30px;
+   margin: 0px;
+  
+  
+}
+
+
+
+body {
+  text-align: center;
+  
+  background-image: url(https://t3.ftcdn.net/jpg/04/34/62/74/240_F_434627449_2PX32uxEOwKe981ait1vLQRTDl5vgYgY.jpg);
+
+}
+
+.st {
+
+background-color: navy ; 
+ margin: 0px;
+color: silver
+
+  
+}
+footer {background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+  
+    color : #FFFFFF;
+    
+    padding: 50px;
+     margin: 0px;
+}
+
+section {
+  background-color: #17202A  ;
+  color: silver
+  ;
+
+}
+
+
+
