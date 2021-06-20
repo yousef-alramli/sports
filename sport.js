@@ -52,6 +52,17 @@ else {
   }
 
 
+<<<<<<< HEAD
+=======
+
+}
+
+
+sp();
+  var advice = confirm("if you have any advice please bress ok")
+  
+if (advice){ prompt ( "please write it down" )
+>>>>>>> 0720f507262fde2a219f82ea62eb44fc1618e2f9
 
 }
 
