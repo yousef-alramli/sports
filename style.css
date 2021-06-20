@@ -28,7 +28,7 @@ color: silver
   
 }
 footer {background-image: url('http://i.stack.imgur.com/kx8MT.gif');
-  
+  align-items: center;
     color : #FFFFFF;
     
     padding: 50px;
@@ -36,11 +36,30 @@ footer {background-image: url('http://i.stack.imgur.com/kx8MT.gif');
 }
 
 section {
-  background-color: #17202A  ;
+  background-color: rgb(99, 153, 216)  ;
   color: silver
   ;
+margin: 0px;
+}
+p{
+  margin: 0px;
+}
+li {
+   text-decoration:none;
+  font-size: 20px;
 
 }
-
-
-
+.ramos {
+  color: gold;
+  font-size: 30px;
+  margin: 0px;
+  background-color: black;
+  padding: 50px;
+ 
+}
+#rr{
+  height: 700px;
+width: 1400px;
+margin-right: auto;
+margin-right: auto;
+}
