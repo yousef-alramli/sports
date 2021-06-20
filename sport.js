@@ -59,6 +59,7 @@ else {
 sp();
  
  
+ 
 var farewell = document.write("<p class='ramos'>" + "Farewell Sergio Ramos" + "<img id='rr' src='https://editorial.uefa.com/resources/026a-128a9492b9e9-653f163f669e-1000/real_madrid_tribute_and_farewell_to_sergio_ramos.jpeg'>" + "</p>")
 
 function sergio(){
