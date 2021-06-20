@@ -3,7 +3,11 @@
 alert("hello and welcome")
 var sport = prompt("write down witch sport you like more ,, soccer, cricket or basketball, so you will find a link for it at end of the page")
 
+
 function sp (){
+
+
+
 while (sport != "soccer" && sport !="basketball" && sport !="cricket"){
   sport = prompt("not available pleas try again")
 }
@@ -41,12 +45,31 @@ var fsport = prompt("how mani pics you would like to see")
     
 }
 
+
+
 else {
   alert ( "sorry we dont support this type of sport") 
   }
+
+
+
 }
 
+
 sp();
+ 
+var farewell = document.write("<p class='ramos'>" + "Farewell Sergio Ramos" + "<img id='rr' src='https://editorial.uefa.com/resources/026a-128a9492b9e9-653f163f669e-1000/real_madrid_tribute_and_farewell_to_sergio_ramos.jpeg'>" + "</p>")
+
+function sergio(){
+
+  console .log(farewell);
+
+return sergio;
+
+}
+
+sergio();
+
   var advice = confirm("if you have any advice please bress ok")
   
 if (advice){ prompt ( "please write it down" )
@@ -54,14 +77,5 @@ if (advice){ prompt ( "please write it down" )
 } 
 else { alert ("thank you")
 }
-var farewell = document.write("<p class='ramos'>" + "Farewell Sergio Ramos" + "<img id='rr' src='https://editorial.uefa.com/resources/026a-128a9492b9e9-653f163f669e-1000/real_madrid_tribute_and_farewell_to_sergio_ramos.jpeg'>" + "</p>")
-function sergio(){
 
-  consol.log(farewell);
-
-return sergio;
-
-}
-
-sergio();
 
