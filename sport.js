@@ -61,7 +61,6 @@ sp();
   
 if (advice){ prompt ( "please write it down" )
 
-
 }
 
 
